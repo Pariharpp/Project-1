@@ -1,0 +1,23 @@
+#bd .navbar{
+    border-bottom: #2980b9 solid 4px;
+}
+/* ask about it*/
+hr{
+    color: #2980b9;
+    height: 45px;
+    background-color: #2980b9;
+}
+#Services .card:hover{
+    background: #2980b9;
+    color:#FFF;
+
+}
+
+#Authors img
+{
+    margin-top: -50px;
+}
+
+.row{
+    
+}
